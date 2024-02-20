@@ -1,0 +1,254 @@
+Cell injury:
+	* Is a function of 
+		1- Injury => type, duration, severity
+		2- Cell => type, status, adaptability
+
+	Causes:
+		1- Physical
+			* Electricution, extreme cold or heat
+
+		2- Immune
+			* Autoimmune diseases
+
+		3- Infection
+			* Viruses, bacteria, fungi, protozoa
+
+		4- Nutrientional
+			* Excess or defficient
+
+		5- Chemical
+			* Drug overdose, alcohol
+
+		6- Hypoxia
+			1- Ischemic: Local or Systemic
+			2- Hypoxemia
+
+		6- Aging
+		7- Genetic
+
+	Free Radicals:
+		* Highly reactive, unstable chemicals
+		
+		Generation occurs by:
+			1- Exogenous toxins
+			2- Endogenous metabolic reactions
+			3- Exposure to radiation
+
+		Is removed by:
+			1- self-decaying
+			2- Anti-Oxidants (Vitamin ACE, Glutathione)
+			3- Storage proteins (Ferritin, Transferrin)
+			4- Enzymes
+
+		Injure cells by:
+			1- Membrane lipid peroxidation
+			2- Interaction with proteins
+			3- DNA Damage
+
+	Cell injury mechanism can classified into:
+		1- ischemic, hypoxic cell injury
+		2- free radical cell injury
+		3- chemical induced cell injury
+		4- other mechanisms
+
+	* Normal cell funcs depend on integrity of:
+		1- Oxidative phosphorylation of adp to atp (source of energy in mitochondria)
+		2- Sodium ionic pump at plasma membrane
+		3- protein synthesis by ribosome
+		4- Nuclear genetic apparatus and dna coding.
+
+	Mild ischemia or hypoxia:
+		1- Low level of atp => Defect sodium ionic pump => disturbances of permeability of cell membrane => influx of sodium => influx of water => cellular swelling (Hydropic degeneration) => Fall of microfilaments
+		2- Clumping of chromatin (due to low ph (bcz increase in co2 makes solution acidic))
+
+		* This is reversible up to an extent
+		* Called Reversible cell injury, hydropic swelling, sublethal cell injury
+		* Ex/ Angina pectoris, Fatty change of liver
+
+	Severe ischemia or hypoxia:
+		* Aerobic respiration shifts to anaerobic respiration
+
+		1- (H20 + Nitrogen products) Increase (result in excess swelling in addition to defect of sodium ionic pump)
+		2- (CO2 + Ketone body + Lactic acid) Increase (Lead to excess acidosis)
+		3- (Pyknosis, Karyorrhexis, Karyolysis) => Nuclei loss
+		4- Calcium influx into cytoplasm => Excess Calcification of mitochondria (loss of respiratory function)
+							   => Self-digestion of lysosomes
+
+		5- Cytoskeletal damage
+
+		* This is irreversible cell injury (necrosis)
+		* AKA irreversible cell injury, lethal cell injury, cell death
+		* EX/ Myocardial infarction, lung infarction, brain infarction, renal infarction
+
+General Inflammation:	(Prerequisite to acute inflammation and chronic inflammation)
+	* 2 types of inflammation:
+		1- Acute Inflammation
+		2- Chronic Inflammation
+
+	* Inflammation involves 2 basic processes:
+		1- inflammatory response
+		2- Healing process
+
+	* Typical inflammation reaction occurs through a series of sequential steps:
+		1- The offending agent, located in extravascular tissues, is recognized by host cells.
+		2- Leukocytes, plasma proteins will flow towards offended site.
+		3- Leukocytes, plasma proteins are activated and work together to eliminate the offender.
+		4- The reaction is controlled and terminated.
+		5- The damaged tissue is repaired.
+
+	Features of Acute and Chronic Inflammation:
+						Acute				Chronic
+		Onset				Fast, in mins or hours	slow, in days
+
+		Cellular infiltrate	Mainly neutrophils	Monocytes, macrophages, lymphocytes
+
+		Tissue injury		Mild				Severe and progressive
+
+		Signs				Prominent			Less
+
+	Five Cardinal signs of inflammation:
+		1- Redness
+		2- Swelling
+		3- Heat
+		4- Pain
+		5- Loss of function
+
+	Killing mechanisms:
+		1- ROS
+		2- Reactive nitrogen species
+		3- Lysosomal enzymes
+
+Acute Inflammation:
+	Causes:
+		1- Microbial Infections
+		2- Tissue necrosis
+		3- Hypersensitivity
+		4- Foreign bodies
+	Hallmark:
+		1- Exudation of fluid
+		2- Infiltration of cells
+	
+	* Transudate has low protein content, Exudate has high protein content.
+
+	Chemical mediators of acute inflammation:
+		1- Proteases:
+			1- Kinins
+			2- Complement System C3a, C5a
+			3- Coagulation / Fibrinolytic system
+		2- Prostaglandins
+		3- Cytokines
+
+	Cytokines in Inflammation (All are in macrophages):
+		1- TNF
+		2- IL-1
+		3- IL-6
+		4- Chemokines
+
+	Known few mediators in each major steps of inflammation:
+		1- Vascular dilation: Histamine, Prostaglandins
+		2- Vascular permeability: Histamine, Bradykinin
+		3- Emigration of neutrophils: C5a, Leukotrine B4
+
+	Migration of neutrophils:
+		1- Margination
+		2- Rolling
+		3- Adhesion
+		4- Emigration
+
+	Key steps of acute inflammation:
+		1- Transiet-Vasoconstriction
+		2- Vasodilation
+		3- Increasing permeability
+		4- Stasis
+		5- Margination
+		6- Rolling
+		7- Adhesion
+		8- Emigration
+		9- Chemotaxis
+		10- Phagocytosis
+		11- Damage to host tissue, Local and/or systemic
+		12- Resolution (Repair)
+
+	Disorders:
+		1- Hereditary angio-edema
+		2- Alpha-1 antitripsin defficiency
+		3- Inherited complement deficiencies
+		4- Defects in neutrophils function
+		5- Defects in neutrophils number
+
+Chronic Inflammation:
+	How does it occur:
+		1- Take over acute inflammation
+		2- Start de novo
+		3- Rise alongside acute inflammation
+
+	Causes:
+		1- Pesistent Infections
+		2- Hypersensitivity
+		3- Prolonged exposure to toxic agents
+	
+	Features:
+		1- Infiltration with mononuclear cells (Macrophages, lymphocytes, plasma cells)
+		2- Tissue distruction
+		3- Attempts at healing by connective tissue replacement
+
+	Cells & Mediators in chronic inflammation:
+		1- Macrophages
+		2- Lymphocytes
+		3- Mast cells
+		4- Eosinophils
+		5- Neutrophils
+
+	Functions of macrophages:
+		1- Phagocytosis
+		2- Presentation of antigens
+		3- Synthesis of cytokines
+		4- Control other cells via cytokine release
+
+	Pathways of macrophage activation:
+		1- Classic pathway
+		2- Alternate pathway
+
+	* Some activated macrophages may fuse, forming multinucleated giant cells.
+
+	Systemic effect of chronic inflammation:
+		1- Fever
+		2- Leukocytosis
+		3- Acute phase proteins
+
+	* Granulomatous inflammation: a form of chronic inflammation with granuloma.
+
+	Diseases with granulomatos inflammation:
+		1- Tuberculosis
+		2- Siphilis	
+		3- Crohn Disease
+		4- Leprosy
+
+Hemostasis and Thrombosis:
+	* Hemostasis: a series of regulatory process to forming blood clot so to stop bleeding.
+
+	Steps of hemostasis:
+		1- Arteriolar vasoconstriction
+			* to reduce blood flow to injured site, mediated by endothelin factor.
+
+		2- Primary hemostasis: Formation of platelet plug with these steps:
+			1- Platelet adhesion
+			2- Platelet shape change (rounded disc => Spiky flat plate)
+			3- Platelet release granule (ADP, TXA2, Serotonin)
+			4- Recruitment of more platelets
+			5- Aggregation (Hemostatic plug)
+			
+		3- Secondary hemostasis: Deposition of fibrin.
+			1- Tissue factor activates Factor VII, which involves in thrombin generation.
+			2- Thrombin cleaves fibrinogen into fibrin, which consolidates the platelets plug.
+			3- Phospholipid complex makes a negative charge, which activates Factor XII.
+
+		4- Clot stablization and resorption.
+			* t-PA blocks coagulation cascade and stimulate tissue repair
+
+
+
+
+
+
+

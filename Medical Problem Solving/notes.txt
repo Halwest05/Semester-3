@@ -1,0 +1,229 @@
+Edema and Cyanosis:
+	Edema:
+		Causes:
+			1- Increased total extracellular fluid
+			2- Increased oncotic pressure & serum albumin
+			3- High local venous pressure
+			4- High permeability of capilliaries
+			5- Lymphatic obstruction
+
+		Pitting edema (mainly peripheral edema): Indentation when pressure is applied and persists.
+	
+		Non-Pitting edema: Indentation does not occur, its typical of lymphatic obstruction, results of excessive matrix deposition. ex/ Hypothyroidism
+	
+		Investigations:
+			1- Examination of cvs and abdomen.
+			2- Imaging of organs. (Liver, kidney, heart)
+			3- blood tests (Electrolytes, serum albumin)
+			4- urine test (protein)
+
+	Cyanosis:
+		definition: Bluish color of skin, result of increased reduced HB (Deoxygenated HB).
+
+		2 types:
+			1- Central Cyanosis
+			2- Peripheral Cyanosis
+	
+		Causes of central cyanosis:
+			1- Decreased atmospheric pressure
+			2- Impaired pulmonary function
+			3- Alveolar hypoventilation
+			4- Inhomogenity in pulmonary ventilation
+			5- Decreased arterial oxygen saturation
+			6- Impaired oxygen diffusion
+			7- Hemoglobin with low affinity for oxygen
+			8- Hemoglobin abnormality
+			9- Congenital heart disease
+
+		Causes of peripheral cyanosis:
+			1- Reduced cardiac output
+			2- cold exposure
+			3- Redistribution of blood flow from extremities
+			4- Arterial obstruction
+			5- Venous obstruction
+
+		Features important to detecting the cause of cyanosis:
+			1- ascertain the time on onset.
+			2- type of cyanosis. (Central or peripheral)
+			3- presence of clubbing of the digits should be ascertained.
+			4- Pa02 and Sa02 should be determined
+
+Vitamin D:
+	* Main function is the regulation of calcium absorption and homeostasis.
+
+	* %50 is absorbed of dietary.
+	* Dietary vitamins absorbed in intestines.
+	* Low levels of vitamin D cause iron defficiency
+	
+	2 types:
+		1- V-D3 (Cholecalciferol)
+		2- V-D2 (Ergocalciferol)
+
+	* Transported by DBP (Vitamin D binding protein)
+
+	Dehydrocholestrol -> hydrocholestrol -> cholecalciferol
+
+	Funcs:
+		Principal func: Maintain plasma level of calcium ions.
+		
+		1- Increased intestinal absorption of calcium.
+		2- Reduced excretion of calcium ion by kidney.
+		3- Mobilization of bone mineral
+		4- Secretion and synthesis of insulin, thyroid and parathyroid hormones.
+		5- Inhibition of production of interleukin.
+		6- modulation of cell diffrentiation, proliferation, apoptosis
+
+	Rickets:
+		Def: undermineralization of bone in babies.
+		
+		Features:
+			1- Rachitic rosary
+			2- Frontal bossing
+			3- Wide sutures
+			4- Dental hypoplasia
+			5- bowing of legs
+			6- Swelling of hands and ankle joint
+
+	Osteomalacia: Demineralization of bone in adults.
+
+Iron Defficiency:
+	iron containing heme-proteins:
+		1- Cytochrome of mitochondria
+		2- Hemoglobin
+		3- Myoglobin
+		4- Cytochrome p-450 of liver
+
+	iron containing non-heme-proteins:
+		1- Ferritin (stores iron)
+		2- Transferrin (Transfers iron)
+
+	* Iron in men: (20-275 micro-gram/L)
+	* Iron in women: (5-200 micro-gram/L)
+	
+	* Less than 15 micro-gram/L causes iron def
+
+	Disorders:
+		1- Hemochromatosis -> Increased absorption of iron
+		2- Iron def anemia -> Decreased amount of iron
+		3- Anemia of chronic disease -> inflammation induced change of iron distrobution
+
+	Causes:
+		1- Chronic blood loss	
+		2- Increased demand of iron
+		3- Malabsorption of iron
+		4- Inadequate iron intake
+		5- Vascular hemolysis
+
+	Lab features:
+		Hb, Htc, Rbc: Low
+		Serum iron: Low
+		Serum Ferritin: Low
+		Transferrin saturation: Low
+
+		Retics: Normal, Low
+		PLT: normal,high,low
+		wbc: Normal, low
+
+		TIBC (Totial iron binding capacity): High
+		Serum transferrin receptor: High
+		FEP, RDW: HIGH
+
+	Cells able to export iron:
+		1- Macrophages
+		2- Enterocytes
+		3- Hepatocytes
+
+	Hepcidin:
+		* Blocks iron export, released from liver according to 3 states:
+			1- Iron overload -> increase
+			2- Iron defficency -> decrease
+			3- inflammation -> increase
+
+Jaundice:
+	* caused by hyperbilirubinemia
+	* %60 infants, %80 pre-infants
+	
+	2 types of hyperbilirubinemia:
+		1- Indirect (Unconjugated) not bound to albumin -> Potentially neurotoxic
+			* Skin appears bright yellow, orange
+
+		2- Direct (conjugated) bound to albumin -> Signfies a serious illness
+			* Skin appears greenish
+		
+	Etiology:
+		Fetal: placenta is main route of elimination of bilirubin.
+		Adulthood: water-soluble conjugated form of bilirubin excreted like this:
+			hepatic cell -> bile -> billary system -> GIT
+
+		Unconjugated hyperbillirubinemia causes:
+			1- increase load of billrubin
+			2- Reduce activity of transferase
+			3- blocking of transferase
+			4- abscence or reduction in amount of transferase/ billirubin absorbed by liver
+
+		Toxicity of unconjugated billirubinemia increased by:
+			1- reduction of excretion of billirubin in cirulation
+			2- increase of permeability of the blood brain barrier
+
+		* Jaundice appearing at 2nd or 3rd day are usually physiologic.
+		* Jaundic appearing after 3rd day and within 1st week suggest Bacterial sepsis, UTI
+
+		Risk factors of indirect hyperbillirubinemia:
+			1- maternal diabetes
+			2- prematurity
+			3- drugs
+			4- polycythemia
+			5- male sex
+			6- 21-trisomy (Down syndromic)
+
+Syncope:
+	Def: Transient or episodic loss of consciousness due to reduced cerebral perfusion.
+
+	Types:
+		1- CS disease: arrhythmia
+		2- Neuro-cardiogenic cause: (abnormal autonomic reflex), vasovagal syncope
+		3- Orthostatic hypotension: bp drop on changing posture
+		4- Neurological or psychiatric diseases:
+			1- Ischemic attacks
+			2- panic attacks
+			3- hyperventilation
+
+Fall:
+	Symptoms: Fracture, brusing, pain, bleeding
+	
+	Complications: Fractures, injuries, fear of falling, death, potential immobilization
+
+	Physical risk factors:
+		1- blood pressure regulation
+		2- Gait disturbance
+		3- CNS problems
+		4- vision
+		5- otolaryngologic functions
+		6- proprioception
+	
+	Behavioral risk factors:
+		1- Medications
+		2- lack of excercise
+		3- Staying indoors
+
+	Enviromental risk factors:
+		1- Slippery surfaces
+		2- hazards in home
+		3- improper footwear
+		4- incorrect use of walking aids
+	
+	Evaluating a fall:
+		1- Clinical evaluation
+		2- Tests
+		3- Lab tests
+
+Vital signs:
+	1- temp
+	2- Pulse
+		rate < 60 => bradycardia
+		rate > 100 => tachycardia
+	3- Respiration
+		rate < 12 => bradypnea
+		rate > 16 => tachypnea
+
+	4- BP
