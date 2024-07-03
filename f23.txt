@@ -1,0 +1,117 @@
+SAQ
+
+Pathways that stimulate the activation of macrophages: {MOD}
+	1- Classical pathway: Induced by IFN-y cytokines.
+	2- Alternative pathway: Induced by cytokines other than IFN-y.
+
+Infants medical condition and effects of embryological development: {MSK}
+	1- Syndactyly
+	2- Polydactyly
+	3- Amelia
+	4- Meromelia
+	5- Phocomelia
+
+Important roles of transport processes in cell membranes: {MR}
+	1- Regulation of cell volume
+	2- Maintenence of intracellular pH
+	3- Maintenence of ionic composition
+	4- Generation of ionic gradient necessary for electrical excitabilty of nerve and muscles. 
+	5- Excretion of waste products and toxic substances
+
+Determine boundaries of heart: {CVS}
+	Right border: right atrium and superior, inferior vena cavae
+	Left border: left ventricle and portion of left atrium
+	Superior Border: Both atria
+	Inferior Border: Mainly right ventricle 
+
+Dif between primary and secondary healing: {MOD}
+	Feature			Pimary			Secondary
+
+	Cleanliness		Clean			Unclean
+	Infection		Generally uninfected	Maybe Infected
+	Sutures			Used			Not Used
+	Margins			Surgical clean		Irregular
+	Outcome			Linear scar		Irregular wound
+
+Contents of the middle mediastinum: {CVS}
+	Ans/ The middle mediastinum consists of pericardial sac containing the heart and its blood vessels (coronary vessels) and the roots of the aorta, superior and inferior vena cavae and pulmonary vessels.
+
+Classify and define muscle groups according to their actions: {MSK}
+	1- Agonists: Prime movers
+	2- Antagonists: Oppose prime movers
+	3- Synergists: Help prime movers
+	4- Fixators: Stablize primer movers action
+
+Numerate the source of origin that lead to development of the skeletal muscle: {MSK}
+	1- Paraxial mesoderm
+	2- Lateral plate mesoderm
+	3- Neural crest cells
+
+Enumerate 4 causes of generalized edema: {MPS}
+	1- Increased Extracellular fluid
+	2- High local venous pressure
+	3- Lymphatic obstruction
+	4- Low plasma oncotic pressure/ Serum albumin
+	5- Increased capiliary permeability
+
+Interpret 4 physiological cause of peripheral cyanosis and enumerate 2 causes of central cyanosis: {MPS}
+	1- Cold exposure
+	2- Redistribution of blood flow to the extremities
+	3- Reduced cardiac output
+	4- Arterial obstruction
+	5- Venous obstruction
+
+	1- Impaired pulmonary function
+	2- Impaired oxygen diffusion
+	3- Alveolar hypoventilation
+	4- HB Abnormalities
+	5- Increased number of reduced HB.
+
+Enumerate the static factors that are responsible for the stability of the shoulder joint: {MSK}
+	Ans/ Humeral head, glenoid arc, labrum, intracapsular ligament, extracapsular ligament
+
+Mention mechanism of neutrophils migration: {MOD}
+	1- Neutrophil adhesion and emigration due to binding of complementary adhesion molecules on endothelial and neutrophil surfaces.
+	2- Chemical mediators change surface expression or avidity of adhesion molecules:
+		a- Selectins
+		b- Immunoglobulins
+		c- Integrins
+
+What are the most important membrane transport mechanisms involved in the control of intracellular Na+, K+, Ca+2 concentration: {MR}
+	1- Na+/K+ Pump
+	2- PMCA (Plasma membrane ca2+ atpase)
+	3- SERCA (Sarco endoplasmic reticulum atpase)
+	4- NCX (Sodium calcium exchanger)
+	5- NHE (Sodium hydrogen exchanger)
+	6- Mitochondrial Ca2+ uniporters
+
+The membrane potential is restored rapidly to resting levels in nerve and muscle cells after an action potential. how is this achieved: {MR}
+	Ans/ By inactivation of Na+ channels, and opening K+ channels. Thus K+ move outward which bring the internal charge back to negative charge.
+
+Short note about conducting system: {CVS}
+	ANS/ The heart conduction system is a network of nodes that controls heartbeat. main parts of the system are ((SA, AV) node, bundle of HIS, bundle branches, purkine fibers.
+
+Dif between acute and chronic inflammation: {MOD}
+	Feature			Acute			Chronic
+	
+	Onset			Fast			Slow
+	Cellular infiltrate	Mainly neutrophils	Monocytes,lymphocytes and macrophages
+	Tissue injury		Usually mild		Maybe severe
+	Signs			Prominent		Less
+
+Enumerate 4 lab features of iron deficiency anemia: {MPS}
+	1- Low: HB, RBC
+	2- Low/Medium: WBC, Retics
+	3- Low/Medium/High: Plt
+	4- High: RDW, FEP, TIBC
+
+Why doesn't the aortic valve close as soon as the heart muscle begins to relax: {CVS}
+	Ans/ Valve close when interventricular pressure falls below arterial pressure and blood start to backflow.
+
+Describe changes in Ca+2 in cardiac ventricular cells during cardiac cycle: {MR}
+				Systole			Diastole
+	
+	VOCC			Open			Closed
+	CICR			High Activity		Low Activity
+	Na+ - Ca2+ exchange	1 Ca2+ in & 3 Na+ out	1 Ca2+ out & 1 Na+ in
+	PMCA, SERCA		Low Activity		High Activity

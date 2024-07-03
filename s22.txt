@@ -1,0 +1,196 @@
+SAQ
+
+Secondary Union steps: 											{MOD}
+	1- Initial hemorrhage
+	2- Inflammatory phase
+	3- Epithelial change
+	4- Granulation tissue
+	5- Wound contraction
+	6- Presence of infection
+
+Define stoke volume, End Systolic volume, End Diastolic volume:						{CVS}
+	1- Stroke volume: Volume of pumped blood from left ventricle each cardiac cycle.
+	2- End Systolic volume: Volume of blood in ventricles after contraction, or beginning of filling, typically the blood volume is at its lowest in this phase.
+	3- End Diastolic volume: Volume of blood in ventricles after filling.
+
+Shoulder joint blood supplies and its injuries:								{MSK}
+	Blood supplies: anterior and posterior circumflex humeral, circumflex scapular and suprascapular artery
+	
+	1- Rotator cuff tendinitis 
+	2- Supraspinatus tendon rupture
+	3- Anterior-Inferior dislocation
+	4- Posterior dislocation
+
+Risk factors of venous thrombosis:									{MOD}
+	1- Heart failure
+	2- Immobilization
+	3- Trauma
+	4- Surgery
+	5- Burns
+
+Systemic consequence of acute inflammation: 								{MOD}
+	1- Acute phase respone
+	2- Fever
+	3- Leukocytosis
+
+Effect of histamine:											{MOD}
+	1- Vascular dilation
+	2- Increased vascular permeability
+
+How membrane transporter mechanisms and ion channels contribute to the maintenence of ion and solute gradient across membranes and how these mechanisms regulate ph and cell volume?					{MR}
+	1- Acidification can be opposed by expelling H+ outward and inward movement of HCO3-
+	2- Alkalinization can be opposed by expelling HCO3- outward and inward movement of H+
+
+Prostatitis classification:
+	1- Acute bacterial prostatitis
+	2- Chronic bacterial prostatitis
+	3- CPPS
+	4- Non-inflammatory CPPS
+	5- Symptomatic inflammatory prostatitis
+
+Gluteus maximus nerve supply:										{MSK}
+	Ans/ Inferior gluteal nerve
+
+What happens to resistance of blood flow if blood becomes more viscous:					{CVS}
+	ANS/ More viscosity leads to more resistance
+
+Describe anatomical position:										{MSK}
+	1- body upright in vertical axis
+	2- Legs and feet parallel
+	3- Arms hanging by sides
+	4- Palms and face directed forward
+
+What are cytomorphology of cancer:
+	1- Pleomorphism
+	2- N/C high ratio
+	3- Anisonucleosis
+	4- Nuclear change
+	5- Giant tumor cells
+
+What factor involve in insulin resistance in pathologic effect:
+	1- TNF & IL1
+
+Define cubital fossa:
+	Ans/ A triangular depression in front of elbow
+		Contents:
+			1- Terminal part of brachial artery
+			2- Tendon of biceps muscle
+			3- median nerve
+
+		Boundaries:
+			Laterally: Brachioradialis muscle
+			Floor: Supinator and brachialis
+
+Mention 4 outcomes of acute inflammation:
+	1- Complete resolution
+	2- Continued acute inflammation with chronic inflammation
+	3- Chronic inflammation and fibrous repair
+	4- Death
+
+Enumerate symptoms of bladder outlet obstruction:
+	1- Hesitency
+	2- Urgency
+	3- Sense of incomplete emptying
+	4- Acute urinary retention
+	5- Chronic urinary retention
+
+Bioavailability is the fraction of administrated drug that reaches systemic circulation.
+
+Define those terms: stable angina, unstable angina, variant angina, silent ischemia:
+	1- Unstable angina: Chest pain that occurs at rest, caused by reduced blood flow to heart.
+	2- Variant angina: Chest pain, caused by muscle spasms of coronary arteries, which temporarily reduce blood flow to the heart.
+	3- Silent ischemia: Reduced blood flow to the heart without any signs or symptoms.
+	4- Stable angina: Chest pain that occurs during emotional distress, caused by reduced blood flow, and is predictable.
+
+Cellular change of apoptosis:
+	1- Cellular breakdown and shrinkage
+	2- Chromatin condensation and nuclear changes
+	3- Membrane blebbing, which make apoptotic blebs which are then phagocytosed
+
+Dif between benign and malignant tumors:
+	1- Benign: Grow slowly, well differentiated, no invasion to surrounding tissues, spherical or ovoid in shape.
+	2- Malignant: Grows fast, undifferentiated, invasive to surrounding tissues, irregular shape.
+
+Describe connective tissue surrounding muscles:
+	1- Endomysium: Very thin layer of reticular fibers
+	2- Perimysium: Thin layer of CT that surround each fascicles
+	3- Epimysium: External layer of irregular dense CT that sorround entire muscle.
+
+List four conditions in granuloma:
+	1- Crohn disease
+	2- Tuberculosis
+	3- Syphilis
+	4- Leprosy
+
+Sartorius muscle in innvervated by femoral nerve.
+
+4 Type of tissue necrosis:
+	1- Fat
+	2- Gangrene
+	3- Coagulative
+	4- Liquifactive
+
+Blood supply to the upper limb:
+	1- Arm is supplied by brachial artery
+	2- Forearm and hand is supplied by radial and ulnar arteries
+
+What is granulation:
+	Ans/ Granulation tissue is formed by proliferation of fibroblast and neovascularization, they have role in secondary healing.
+
+List steps of neutrophil migration:
+	1- Margination
+	2- Rolling
+	3- Adhesion
+	4- Emigration
+
+Neurological conditions that affect peripheral nervous system and cause peripheral hypotonia are:
+	1- Muscular dystrophy
+	2- Spinal muscular dystrophy
+	3- Charcot marie tooth disease
+	4- Myasthenua gravis
+
+Role of carbohydrate on the membrane in terms of communication:
+	Ans/ Locks onto proteins and prevents rotation (Flip-Flopping) of the proteins.
+
+Motions of phospolipids in plasma membrane:
+	1- Intra chain motion
+	2- Fast axial rotation
+	3- Fast lateral rotation
+	4- Flip flops
+
+Stages of bone healing:
+	1- hematoma then inflammation
+	2- Granulation tissue formation
+	3- Soft callus
+	4- hard callus
+	5- Replacement of woven bone with lamelar bone
+	6- Remodelling
+
+Major cytokine involve in fibrosis is TGF-B.
+
+Dif between syncope and seizure:
+	Feature			Seizure		Syncope
+
+	Aura			+		-
+	Cyanosis		+		-
+	Lateral tongue-biting	+		-/+
+	Post-ictal delirium	+		-
+	Post-ictal amnesia	+		-
+	Post-ictal headache	+		-
+	Rapid-recovery		-		+
+
+What are the cauases of nausea and vomiting in kidney diseases:
+	1- Renointestinal reflexes: [Because of pylorospasm]
+	2- Organ relationships: [kidney is closely related to GIT organs]
+	3- Peritoneal irritation: [Anterior surface of kidneys are covered by peritoneum]
+
+Define pinocytosis, phagocytosis, receptor mediated endocytosis:
+	1- Pinocytosis: endocytosis of vesicle which encloses a small volume of extracellular fluid with whatever solute in it.
+	2- Phagocytosis: Cells engulf the toxic or particles entirely.
+	3- Receptor mediated endocytosis: A hydrophilic surface when activated endocytosis occurs, as in some types of hormones.
+
+Inhibitor of cAMP is phosphodiesterase.
+
+Dif between metaplasia and dysplasia:
+	1- Metaplasia refers to reversible change of cell type, this is due to a stimuli. if stimuli is no longer present, it will go back to normal, and is generally useful not bad.
+	2- Dysplasia is abnormal growth and development of cells that leads to disorganization of tissue, this is cancerous and will not go back to normal if stimuli is unpresented.

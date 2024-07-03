@@ -1,0 +1,148 @@
+SAQ
+
+Enumerate 5 risk factors of hyperbillirubinemia:
+	1- Maternal diabetes
+	2- Race
+	3- Polycythemia
+	4- Male sex
+	5- 21-trisomy
+
+Enumerate 5 features of rickets:
+	1- Frontal bossing
+	2- Wide sutures
+	3- Craniotabes
+	4- Dental hypoplasia
+	5- Bowing of legs
+
+Enumerate 5 lab features of pathological hyperbillirubinemia:
+	1- Family history of hemolytic diseases
+	2- Pallor
+	3- Hepatomegaly
+	4- Lethargy
+	5- Apnea, Bradycardia
+
+Enumerate ligaments of vertebral column:
+	1- Anterior longitudinal ligament
+	2- Posterior longitudinal ligament
+	3- Interspinous ligament
+	4- Supraspinous ligament
+	5- Ligamentum flavum
+
+Mention distal row of carpals from lateral to medial:
+	1- Trapezium
+	2- Trapezoid
+	3- Capitate
+	4- Hammate
+
+Enumerate hip abductor muscles:
+	Primary: Gluteus medius, Gluteus minimus
+	Secondary: Gluteus maximus
+
+What is cubital fossa and its boundaries:
+	Ans/ Triangular depression on anterior surface of elbow.
+	Superior: Imaginary line connecting medial and lateral epicondyles.
+	Medial: Pronator teres
+	Lateral: Brachioradialis
+	Floor: Supinator and brachialis
+	Roof: Continuty of brachial and antebrachial fascia
+
+What is femoral triangle and boundaries:
+	Ans/ Triangular depression in upper part of medial aspect of thigh.
+	Superior: Inguinal ligament
+	Medial: Adductor longus
+	Lateral: Sartorius
+	Floor: Pectineus
+	Roof: Skin and fascia of thigh
+
+How are receptors classified:
+	1- Receptors are classified according to the agonist they recognize.
+	2- They are sub-classified according to different agonist of the same class, that they bind to.
+	3- They are sub-classified according to affinity to antagonist.
+
+Dif between hydrophobic and hydrophilic signaling mechanism:
+	1- Hydrophilic molecules bind to cell membrane receptors, which leads to a series of reactions, activating the second messenger, doing the main molecule job.
+	2- Hydrophobic molecules transport through the cell membrane and bind to intracellular receptors.
+
+What is mechanism of cell volume regulation:
+	Ans/ Cells excrete ions during swelling, and influxes ions during shrinkage.
+
+Characterstics of ion channels:
+	1- Channels differ in number and type of ions they pass in.
+	2- Channels can be mechanically and/or electrically gated.
+
+General mechanisms to maintaining [Ca2+]:
+	1- Ca2+ influx across plasma membrane.
+	2- Ca2+ release from rapidly releasable stores.
+	3- Ca2+ release from non-rapidly releasable stores.
+
+Write about membrane composition:
+	Ans/ Cell membranes are mainly composed of phospholipid bilayer, which contains proteins embbeded in the membrane (Integral membranes), and surface proteins (peripheral membranes).
+
+Drugs used to treat hypertension:
+	Ans/ Angiotensin converting enzyme (ACE) inhibitors reduce bp by relaxing blood vessels. e.g./ enalapril, lisinopril
+
+What is cardiac action potential:
+	Ans/ An electrical signal which causes myocardial cells to contract properly, through a series of signal propagation.
+
+Explain the 2 ways in which fluids flow:
+	1- Laminar (Most common): is a flow type where adjacent fluids flow at the same velocity, leading to a smooth flowing.
+	2- Turbulent: is a flow type where adjacent fluids flow at different velocities, leading to generation of sound, and chaotic movement.
+
+Define endocardial cushion and looping of the heart:
+	1- Endocardial cushion is a set of cells that contribute to formation of septa and valves.
+	2- Looping of the heart is an early developmental process in which the heart bends and twists to establish the forming of a mature heart, making the proper alignment of atria and ventricles.
+
+Define AV Canal and Septation of the heart:
+	1- AV Canal: a crucial part of the developing heart, that connects the atria to ventricles.
+	2- Septation: Dividing hearts into chambers.
+
+Define vasomotor tone, reactive hyperemia, vasodilator metabolites:
+	1- Vasomotor tone: Is the continous and partial constriction of blood vessels to control blood flow, controlled by sympathetic nervous system.
+	2- Reactive hyperemia: Is the state where blood pressure increases due to blockage of arteries or ischemia, caused by too much metabolic byproducts and nutrient needs of cells.
+	3- Vasodilator metabolites: metabolites that relaxes the blood vessels.
+
+Causes of acute inflammation:
+	1- Microbial infections
+	2- Foreign bodies
+	3- Hypersensitivity
+	4- Tissue necrosis
+
+Stages of inflammatory response:
+	1- Recognition of injurious agent
+	2- recruitment of leukocytes
+	3- removal of agent
+	4- regulation of the response
+	5- Resolution
+
+Sequential consequences that lead to hemostasis:
+	1- ateriolar vasoconstriction
+	2- primary hemostasis: formation of the platelet plug
+	3- secondary hemostasis: depositon of fibrin
+	4- clot stabilization and repair
+
+What is chronic inflammation and how it occur:
+	Ans/ A prolonged inflammation response. {weeks, months}
+	It occurs in 3 ways:
+		1- Took over an acute inflammation
+		2- Arose de novo
+		3- Arose alongside acute inflammation
+
+What is persistent infection:
+	Ans/ Its infections that cannot be eliminated easily, (viruses, fungi, parasites). they often lead to chronic inflammation.
+
+Local complication of acute inflammation:
+	1- Swelling
+	2- Exudation
+	3- Loss of fluid
+	4- Pain or loss of function
+
+Risk factors for atherosclerosis:
+	1- Hypertension
+	2- Smoking
+	3- Diabetes
+	4- Increasing age
+	5- Male sex
+
+What is hyperplasia with example:
+	Ans/ Its the incrase in amount of parenchymal cells that cause organ to be enlarged.
+		e.g: Hyper plasia of pregnant uterus

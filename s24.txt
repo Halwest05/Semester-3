@@ -1,0 +1,85 @@
+Enumerate cardinal signs of inflammation:
+	1- Redness
+	2- Swelling
+	3- Pain
+	4- Heat
+	5- Loss of function
+
+Enumerate sequences of cell division:
+	1- G1
+	2- S
+	3- G2
+	4- M
+	5- G0
+
+Factors that impair tissue repair:
+	1- Infection
+	2- Diabetes
+	3- Mechanical factors
+	4- Nutritional status
+	5- Foreign bodies
+
+Enumerate characteristics of tumor:
+	1- Rate of growth
+	2- Cancer phenotype and stem cells
+	3- Clinical and gross features
+	4- Local invasion
+	5- Metastasis
+
+Enumerate influences on virchows triad:
+	1- Endothelial injuries
+	2- Stasis or turbulence of blood flow
+	3- Hypercoagulability
+
+Enumerate complications of wound healing:
+	1- Infection of wound
+	2- Stich abscess
+	3- Epidermal cyst
+	4- Pigmentation
+	5- Hypertrophied scars
+l
+Short note about components of tumor:
+	1- Parenchyma: Proliferating tumors cells, determines the nature and evolution of tumor.
+	2- Supportive stroma: Composed of fibrous connective tissues.
+
+Examples of chronic inflammation:
+	1- Ulcerative colitis
+	2- Crohn disease
+	3- TB
+	4- Leprosy
+
+Define fainting (Pre-Syncope):
+	Ans/ Its lightheadedness and premonitory symptoms of syncope.
+
+What is autonomic nervous system:
+	Ans/ A part of peripheral nervous system, that regulates involutary physiological processes, its divided into 2 parts, Sympathetic and parasympathetic nervous system.
+
+Role of cholesterol in the plasma membrane:
+	Ans/ Its role is stabilizing fluidity of the membrane as temperature changes.
+
+Describe receptor protein functions and structure:
+	Structure: They have intracellular, transmembrane, extracellular domains.
+	Function: 1- Signaling by hormones and mediators
+		  2- Neurotransmission
+		  3- Control of gene expression
+		  4- Cellular delivery
+
+Define mechanism of fast synaptic transmission:
+	Ans/ Its a way of cell communication where neurotransmitters are rapidly released into ligand gated ion channels, which may lead to action potential in post-synaptic cell.
+
+Write short note about structure and function of arterioles:
+	Structure: 3 layers, endothelial layer, middle smooth muscle layer, outer connective tissue layer.
+	Function: Regulation of blood flow reaching organs and blood pressure.
+
+What is tetralogy of fallot (TOF):
+	Ans/ TOF is most common cyanotic heart disease, consists of 4 abnormalities:
+		1- VSD
+		2- RVH
+		3- Pulmonary stenosis
+		4- Aorta Override
+
+Enumerate types of AV Block:
+	1- First degree AV Block
+	2- Second degree AV Block
+	3- Second degree complete AV Block
+
